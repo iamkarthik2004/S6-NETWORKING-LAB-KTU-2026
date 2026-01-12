@@ -63,9 +63,9 @@ Refer to the official **KTU Computer Networks syllabus** for detailed outcomes a
 ## 🧪 LIST OF EXPERIMENTS – NETWORKING LAB (S6 | 2026)
 
 🔹 **Experiment 1** – Introduction to networking tools and commands  
-🔹 **Experiment 2** – TCP socket programming (Client–Server model)  
-🔹 **Experiment 3** – UDP socket programming  
-🔹 **Experiment 4** – Simulation of **Stop-and-Wait Protocol**  
+🔹 **Experiment 2** – fork() and exec() in networking  
+🔹 **Experiment 3** – [TCP Socket programming](https://github.com/iamkarthik2004/S6-NETWORKING-LAB-KTU-2026/tree/main/Expt3)
+🔹 **Experiment 4** – [UDP Socket Programming](https://github.com/iamkarthik2004/S6-NETWORKING-LAB-KTU-2026/tree/main/Expt4)
 🔹 **Experiment 5** – Simulation of **Go-Back-N Protocol**  
 🔹 **Experiment 6** – Simulation of **Selective Repeat Protocol**  
 🔹 **Experiment 7** – Error detection using **Checksum / CRC**  
