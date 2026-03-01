@@ -72,8 +72,6 @@ Refer to the official **KTU Computer Networks syllabus** for detailed outcomes a
 🔹 **Experiment 8** – [UNDERSTANDING THE WIRESHARK TOOL]()
 🔹 **Experiment 9** – [FILE TRANSFER PROTOCOL]() 
 🔹 **Experiment 10** – [STUDY OF NS2]()
-🔹 **Experiment 11** – Network performance analysis  
-🔹 **Experiment 12** – Mini networking application / case study  
 
 ---
 
