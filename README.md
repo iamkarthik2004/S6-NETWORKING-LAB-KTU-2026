@@ -62,16 +62,16 @@ Refer to the official **KTU Computer Networks syllabus** for detailed outcomes a
 
 ## 🧪 LIST OF EXPERIMENTS – NETWORKING LAB (S6 | 2026)
 
-🔹 **Experiment 1** – Introduction to networking tools and commands  
-🔹 **Experiment 2** – fork() and exec() in networking  
+🔹 **Experiment 1** – [BAISC NETWORKING COMMANDS IN LINUX]()
+🔹 **Experiment 2** – [SYSTEM CALLS USED FOR NETWORK PROGRAMMING]()
 🔹 **Experiment 3** – [TCP Socket programming](https://github.com/iamkarthik2004/S6-NETWORKING-LAB-KTU-2026/tree/main/Expt3)
 🔹 **Experiment 4** – [UDP Socket Programming](https://github.com/iamkarthik2004/S6-NETWORKING-LAB-KTU-2026/tree/main/Expt4)
-🔹 **Experiment 5** – Simulation of **Go-Back-N Protocol**  
-🔹 **Experiment 6** – Simulation of **Selective Repeat Protocol**  
-🔹 **Experiment 7** – Error detection using **Checksum / CRC**  
-🔹 **Experiment 8** – **Distance Vector Routing Algorithm**  
-🔹 **Experiment 9** – **Link State Routing Algorithm**  
-🔹 **Experiment 10** – Congestion control mechanisms  
+🔹 **Experiment 5** – [LEAKY BUCKET ALGORITHM]()
+🔹 **Experiment 6** – [DISTANCE VECTOR ROUTING ALGORITHM]() 
+🔹 **Experiment 7** – [STOP AND WAIT PROTOCOL]() 
+🔹 **Experiment 8** – [UNDERSTANDING THE WIRESHARK TOOL]()
+🔹 **Experiment 9** – [FILE TRANSFER PROTOCOL]() 
+🔹 **Experiment 10** – [STUDY OF NS2]()
 🔹 **Experiment 11** – Network performance analysis  
 🔹 **Experiment 12** – Mini networking application / case study  
 
