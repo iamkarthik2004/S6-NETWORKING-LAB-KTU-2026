@@ -11,7 +11,7 @@ int main() {
     printf("Enter message to send: ");
     fgets(message,1024,stdin);
 
-    // Send message to server
+    // Send message to server.
     sendto(sock, message, strlen(message), 0, (struct sockaddr*)&server, sizeof(server));
 
     return 0;
